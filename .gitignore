@@ -1,1 +1,4 @@
 fuel/app/logs
+composer.phar
+composer.json
+composer.lock
